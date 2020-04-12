@@ -12,8 +12,8 @@ paste data to clp
 paste data
 ```
 
-refrences
-TextCopy (https://github.com/SimonCropp/TextCopy)[https://github.com/SimonCropp/TextCopy]
+##### refrences
+TextCopy [https://github.com/SimonCropp/TextCopy](https://github.com/SimonCropp/TextCopy)
 
 ### LICENSE
 MIT License
